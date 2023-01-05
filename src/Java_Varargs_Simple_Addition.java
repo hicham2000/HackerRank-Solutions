@@ -49,7 +49,7 @@ public class Java_Varargs_Simple_Addition {
             }
             if(overload)
             {
-                throw new Exception("Overloading not allowed");
+                throw new Exception("Overloading not allowed try later");
             }
         }
         catch(Exception e)
