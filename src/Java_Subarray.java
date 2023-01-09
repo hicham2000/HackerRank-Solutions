@@ -14,7 +14,6 @@ public class Java_Subarray {
         for(int i=0;i<len;i++){
             arr.add(scanner.nextInt());
         }
-
         for(int i=0;i<len;i++){
             for(int j=i;j<len;j++){
                 tem+= arr.get(j);
