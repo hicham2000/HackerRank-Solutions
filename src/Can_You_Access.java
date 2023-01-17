@@ -33,7 +33,6 @@ public class Can_You_Access {
             }
         }
     }//end of Inner
-
 }//end of Solution
 class DoNotTerminate { //This class prevents exit(0)
 
