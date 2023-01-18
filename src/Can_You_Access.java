@@ -40,7 +40,6 @@ class DoNotTerminate { //This class prevents exit(0)
 
         private static final long serialVersionUID = 1L;
     }
-
     public static void forbidExit() {
         final SecurityManager securityManager = new SecurityManager() {
             @Override
