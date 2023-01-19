@@ -37,7 +37,6 @@ public class Can_You_Access {
 class DoNotTerminate { //This class prevents exit(0)
 
     public static class ExitTrappedException extends SecurityException {
-
         private static final long serialVersionUID = 1L;
     }
     public static void forbidExit() {
