@@ -50,4 +50,3 @@ class DoNotTerminate { //This class prevents exit(0)
         System.setSecurityManager(securityManager);
     }
 }
-
