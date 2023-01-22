@@ -21,7 +21,6 @@ public class Can_You_Access {
             System.out.println("An instance of class: " + o.getClass().getCanonicalName() + " has been created");
 
         }//end of try
-
         catch (DoNotTerminate.ExitTrappedException e) {
             System.out.println("Unsuccessful Termination!!");
         }
