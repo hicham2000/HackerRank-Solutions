@@ -8,7 +8,6 @@ public class Java_2D_Array {
         int sum = 0;
 
         Scanner s = new Scanner(System.in);
-
         for (int i=0;i<6;i++)
         {
             for(int j =0 ;j<6;j++)
