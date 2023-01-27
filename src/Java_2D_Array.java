@@ -10,8 +10,7 @@ public class Java_2D_Array {
         Scanner s = new Scanner(System.in);
         for (int i=0;i<6;i++)
         {
-            for(int j =0 ;j<6;j++)
-            {
+            for(int j =0 ;j<6;j++) {
                 a[i][j] = s.nextInt();
             }
         }
