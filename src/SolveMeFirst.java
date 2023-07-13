@@ -4,7 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class SolutSolveMeFirstion {
+class SolutSolveMeFirstion {
 
 
     static int solveMeFirst(int a, int b) {
