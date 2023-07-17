@@ -58,7 +58,7 @@ public class Solution {
 
         int v1 = Integer.parseInt(firstMultipleInput[1]);
 
-        int x2 = Integer.parseInt(firstMultipleInput[2]);
+        int x2 = Integer.parseInt( firstMultipleInput[2] );
 
         int v2 = Integer.parseInt(firstMultipleInput[3]);
 
